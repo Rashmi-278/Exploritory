@@ -1,7 +1,4 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
-// Code for: https://youtu.be/biN3v3ef-Y0
+
 
 function Flower(x, y) {
   this.x = x;
